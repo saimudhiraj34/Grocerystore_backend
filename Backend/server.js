@@ -8,7 +8,7 @@ import router from "./routes/credit.js";
 import creditd from "./routes/creditdetail.js";
 import prod from "./routes/Product.js";
 import pay from "./routes/payment.js";
-import paid from "./routes/Payed.js";
+import paid from "./routes/payed.js";
 
 
 
